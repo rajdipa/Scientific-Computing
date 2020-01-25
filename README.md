@@ -6,6 +6,8 @@
 Authors
 ----------------------------------------
 Rajdipa Chowdhury
+
 Scott Itakura
+
 Tyler Stewart
 
