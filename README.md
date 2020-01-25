@@ -1,13 +1,11 @@
 # Scientific-Computing
 
-## The programs I wrote for scientific computing class (ASTR 119). 
+## The programs written for scientific computing class (ASTR 119). 
 
 
 Authors
 ----------------------------------------
-Chowdhury Rajdipa
-
-Li Sherri
-
-Wang Jerry
+Rajdipa Chowdhury
+Scott Itakura
+Tyler Stewart
 
